@@ -1,6 +1,8 @@
-# Прогнозирование спроса на прокат велосипедов (London bike sharing dataset (https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset))
+# Прогнозирование спроса на прокат велосипедов
 
 Цель проекта - разработка системы прогнозирования почасового спроса на аренду велосипедов в Лондоне. Проект объединяет подходы классического машинного обучения, глубокого обучения (рекуррентные нейросети LSTM), автоматического машинного обучения (AutoML) и алгоритмов поиска аномалий.
+
+В проекте используется датасет "London bike sharing dataset" (https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset).
 
 ---
 
